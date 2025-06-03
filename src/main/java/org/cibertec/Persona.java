@@ -7,6 +7,7 @@ import lombok.Setter;
 @Setter
 public class Persona {
 	// Clase del Miercoles
+	// Me equivoque, era clase del Jueves
 
 	private String nombre, web; // Modificador private es opcional
 	private int edad; // Debido a la clase lombok
